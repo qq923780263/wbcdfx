@@ -1,0 +1,1 @@
+module.exports = {"__type__":"cc.SpriteFrame","content":{"name":"icon_bi","texture":"37p64nFrpGoZq/bvZ/KJHd","rect":[0,0,69,68],"offset":[0,0],"originalSize":[69,68],"capInsets":[0,0,0,0]}};
